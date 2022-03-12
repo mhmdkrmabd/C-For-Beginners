@@ -12,4 +12,4 @@ int main()
     return 0;
 }
 ```
-[Back to main](README.md).
+[Back to main](../README.md).
